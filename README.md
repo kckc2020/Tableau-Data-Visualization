@@ -3,7 +3,7 @@ Hello there, this dashboard shows the global trend of COVID-19 cases, from Jan t
 
 Data was downloaded from https://data.world/covid-19-data-resource-hub/covid-19-case-counts/workspace/file?filename=COVID-19+Activity.csv, which was compiled on 5 June, 2020.
 
-Any comments or suggestions to improve this dashboard further are welcome. I am be reached at kckc2020123@gmail.com
+Any comments or suggestions to improve this dashboard further are welcome. I can be reached at kckc2020123@gmail.com
 
 Also available on: https://public.tableau.com/profile/kary3060#!/vizhome/GlobalCoronavirusCOVID-19ConfirmedCases/Dashboard1.
 
